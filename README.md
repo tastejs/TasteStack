@@ -1,7 +1,6 @@
 # TasteStack
 
-> Compare backend stack implementations
-
+> Compare backend implementations in different programming languages.
 
 ## Implementations
 
